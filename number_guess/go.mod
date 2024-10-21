@@ -1,0 +1,3 @@
+module nguess
+
+go 1.21.3
